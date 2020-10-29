@@ -1,0 +1,6 @@
+[18-May-2020 09:24:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/jssoluti/public_html/hospital/hms/doctor/include/config.php on line 6
+[25-May-2020 14:54:00 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/jssoluti/public_html/hospital/hms/doctor/include/config.php on line 6
+[25-May-2020 14:55:00 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/jssoluti/public_html/hospital/hms/doctor/include/config.php on line 6
+[25-May-2020 14:55:08 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/jssoluti/public_html/hospital/hms/doctor/include/config.php on line 6
+[25-May-2020 14:55:10 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/jssoluti/public_html/hospital/hms/doctor/include/config.php on line 6
+[25-May-2020 15:02:19 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'jssoluti_665'@'localhost' (using password: YES) in /home2/jssoluti/public_html/hospital/hms/doctor/include/config.php on line 6
